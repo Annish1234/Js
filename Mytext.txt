@@ -1,0 +1,51 @@
+Here are 5 sample risk assessment questions for due diligence in the context of compliance, financial, or operational risks:
+
+Compliance Risk Assessment
+
+1. "Has the entity undergone regulatory sanctions or penalties in the last three years?"
+
+Purpose: To identify compliance violations and potential red flags.
+
+
+
+2. "Are there any politically exposed persons (PEPs) associated with the organization?"
+
+Purpose: To assess the risk of corruption or undue influence.
+
+
+
+
+
+---
+
+Financial Risk Assessment
+
+3. "Does the organization have any undisclosed or pending legal liabilities?"
+
+Purpose: To evaluate financial risks that might impact stability.
+
+
+
+4. "Are there any unusual patterns in financial transactions, such as high volumes of offshore transfers?"
+
+Purpose: To detect potential money laundering or financial fraud.
+
+
+
+
+
+---
+
+Operational Risk Assessment
+
+5. "Does the organization have adequate processes to ensure data security and privacy compliance?"
+
+Purpose: To evaluate the risk of data breaches or mishandling of sensitive information.
+
+
+
+
+
+---
+
+These questions can help systematically identify potential risks in due diligence processes. Let me know if you'd like a tailored set for a specific use case!
